@@ -1,0 +1,41 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	 margin: 0; 
+	padding: 0;
+	}
+h1{
+    color:blue;
+    margin: 20px 0 0 0;
+    font-size: 60px;
+    text-align: center;
+}
+h2{
+    color:orangered;
+    font-size: 50px;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+li{
+    font-size: 30px;
+}
+.container {
+    margin: 0 auto;
+    max-width: 940px; 
+    padding: 0 10px;
+  }
+  footer { 
+    text-align: center; 
+    font-size: 30px;
+    color:blueviolet
+	}
+footer a:link, footer a:visited { 
+	margin-right: 20px; 
+	}
