@@ -28,13 +28,18 @@ li{
     font-size: 30px;
 }
 .container {
-    margin: 0 auto;
+    margin:0 auto ;
+    max-width: 940px; 
+    padding: 0 10px;
+  }
+  .container1 {
+    margin:auto 0 ;
     max-width: 940px; 
     padding: 0 10px;
   }
   footer { 
     text-align: center; 
-    font-size: 30px;
+    font-size: 40px;
     color:blueviolet
 	}
 footer a:link, footer a:visited { 
