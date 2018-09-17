@@ -5,8 +5,8 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
     line-height: 1.88889;
-    background-color: bisque;
-	color: #575753; 
+    background-image: linear-gradient(to right, lightblue, lightgreen);
+  	color: #575753; 
 	 margin: 0; 
 	padding: 0;
 	}
